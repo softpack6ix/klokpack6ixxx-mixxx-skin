@@ -1,17 +1,19 @@
-<svg width="19" height="40" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <path d="m4.00012 31.998v2.00195c0 1.662 1.338 3 3 3l5.01367 2e-3c1.662 3e-6 3-1.338 3-3l-0.01367-2.002z" color="#000000" opacity=".9"/>
-  <path d="m5.43785 37.2781c0.431382 0.371 1.12145 0.721737 2.07412 0.721766l4.98805 1.5e-4c1.41531 3.49e-4 2.49938-0.999651 2.83042-2 0 1.662-0.668522 3.00005-2.33044 3l-4.99976-1.5e-4c-1.08815-3.3e-5 -2.20457-0.316516-2.56238-1.72177z" color="#000000" opacity=".15" stroke-width=".999976"/>
-  <path d="m4.93788 36.1833c0.566797 0.518445 1.25997 0.816497 2.04479 0.816521l4.91513 1.5e-4c2.10165 6.4e-5 3.10161-1.65253 3.1016-2.99965l-1.25e-4 -27c-3e-6 -0.57381-0.198487-1.29214-0.580296-1.77769 0.862519 0.52578 1.08077 1.68914 1.08077 2.77734l1.25e-4 27c8e-6 1.662-1.33794 3.00005-2.99986 3l-4.99976-1.5e-4c-1.08815-3.3e-5 -2.50013-0.531869-2.56238-1.81652z" color="#000000" opacity=".6" stroke-width=".999976"/>
-  <path d="m4.00012 34-1.25e-4 -29c-4.8e-6 -1.108 0.892-2 2-2h3c1.108 0 2 0.892 2 2l1.25e-4 29c5e-6 1.108-0.892 2-2 2h-3c-1.108 0-2-0.892001-2-2z" fill="#171717"/>
-  <path d="m8.00012 34-1.25e-4 -29c-4.8e-6 -1.108 0.892-2 2-2h3c1.108 0 2 0.892 2 2l1.25e-4 29c5e-6 1.108-0.892 2-2 2h-3c-1.108 0-2-0.892001-2-2z" fill="#0f0f0f"/>
-  <path d="m9.00012 35-1.25e-4 -31c-2.2e-6 -0.554 0.892-1 2-1h1c1.108 0 2 0.446 2 1l1.25e-4 31c2e-6 0.553999-0.892 1-2 1h-1c-1.108 0-2-0.446001-2-1z" fill="#1a1a1a"/>
-  <path d="m8 4 1.25e-4 31h1l-1.25e-4 -31z" fill="#6e2612"/>
-  <path d="m10 4 1.25e-4 31h1l-1.25e-4 -31z" fill="#984015"/>
-  <path d="m9 4 1.25e-4 31h1l-1.25e-4 -31z" fill="#8d3b13"/>
-  <path d="m8.00012 36v-1h1v1z" fill="#682b10"/>
-  <path d="m10.0001 36v-1h1v1z" fill="#6a2e0e"/>
-  <path d="m9.00012 36v-1h1v1z" fill="#712f11"/>
-  <path d="m9.99968 4v-1h1v1z" fill="#af4f13"/>
-  <path d="m8.99968 4v-1h1v1z" fill="#a64912"/>
-  <path d="m8 3.0004v0.9996h1v-0.9996z" fill="#963517"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 19 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path d="M4,31.998L4,34C4,35.662 5.338,37 7,37L12.014,37.002C13.676,37.002 15.014,35.664 15.014,34.002L15,32L4,31.998Z" style="fill-opacity:0.9;fill-rule:nonzero;"/>
+    <path d="M5.438,37.278C5.869,37.649 6.559,38 7.512,38L12.5,38C13.915,38 14.999,37 15.33,36C15.33,37.662 14.662,39 13,39L8,39C6.912,39 5.796,38.683 5.438,37.278L5.438,37.278Z" style="fill-opacity:0.15;fill-rule:nonzero;"/>
+    <path d="M4.938,36.183C5.505,36.702 6.198,37 6.983,37L11.898,37C13.999,37 14.999,35.347 14.999,34L14.999,7C14.999,6.427 14.801,5.708 14.419,5.223C15.281,5.748 15.5,6.912 15.5,8L15.5,35C15.5,36.662 14.162,38 12.5,38L7.5,38C6.412,38 5,37.468 4.938,36.183L4.938,36.183Z" style="fill-opacity:0.6;fill-rule:nonzero;"/>
+    <path d="M4,34L4,5C4,3.892 4.892,3 6,3L9,3C10.108,3 11,3.892 11,5L11,34C11,35.108 10.108,36 9,36L6,36C4.892,36 4,35.108 4,34Z" style="fill:rgb(23,23,23);fill-rule:nonzero;"/>
+    <path d="M8,34L8,5C8,3.892 8.892,3 10,3L13,3C14.108,3 15,3.892 15,5L15,34C15,35.108 14.108,36 13,36L10,36C8.892,36 8,35.108 8,34Z" style="fill:rgb(15,15,15);fill-rule:nonzero;"/>
+    <path d="M9,35L9,4C9,3.446 9.892,3 11,3L12,3C13.108,3 14,3.446 14,4L14,35C14,35.554 13.108,36 12,36L11,36C9.892,36 9,35.554 9,35Z" style="fill:rgb(26,26,26);fill-rule:nonzero;"/>
+    <path d="M8,4L8,35L9,35L9,4L8,4Z" style="fill:rgb(78,0,108);fill-rule:nonzero;"/>
+    <path d="M10,4L10,35L11,35L11,4L10,4Z" style="fill:rgb(172,0,240);fill-rule:nonzero;"/>
+    <path d="M9,4L9,35L10,35L10,4L9,4Z" style="fill:rgb(120,0,168);fill-rule:nonzero;"/>
+    <rect x="8" y="35" width="1" height="1" style="fill:rgb(59,0,82);fill-rule:nonzero;"/>
+    <rect x="10" y="35" width="1" height="1" style="fill:rgb(154,0,214);fill-rule:nonzero;"/>
+    <rect x="9" y="35" width="1" height="1" style="fill:rgb(102,0,143);fill-rule:nonzero;"/>
+    <rect x="10" y="3" width="1" height="1" style="fill:rgb(186,10,255);fill-rule:nonzero;"/>
+    <rect x="9" y="3" width="1" height="1" style="fill:rgb(139,0,194);fill-rule:nonzero;"/>
+    <rect x="8" y="3" width="1" height="1" style="fill:rgb(95,0,133);fill-rule:nonzero;"/>
 </svg>

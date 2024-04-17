@@ -1,8 +1,8 @@
-![banner showing the skin startup and 'idle' state](./readme-banner.png)
+![banner showing the skin startup and 'idle' state](./readme-banner-vertical.png)
 
 Based on the default PaleMoon skin (2.3)
 
-# Installation
+## Installation
 
 Copy the skin to the Mixxx skins folder:
 

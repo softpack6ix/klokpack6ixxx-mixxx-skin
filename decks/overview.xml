@@ -11,9 +11,9 @@
     <SignalHighColor><Variable name="SignalHighColor"/></SignalHighColor>
     <SignalMidColor><Variable name="SignalMidColor"/></SignalMidColor>
     <SignalLowColor><Variable name="SignalLowColor"/></SignalLowColor>
-    <SignalRGBHighColor><Variable name="SignalHighColor"/></SignalRGBHighColor>
-    <SignalRGBMidColor><Variable name="SignalMidColor"/></SignalRGBMidColor>
-    <SignalRGBLowColor><Variable name="SignalLowColor"/></SignalRGBLowColor>
+    <SignalRGBHighColor>#6beb34</SignalRGBHighColor>
+    <SignalRGBMidColor>#00ffee</SignalRGBMidColor>
+    <SignalRGBLowColor>#b700ff</SignalRGBLowColor>  
     <PlayedOverlayColor><Variable name="PlayedOverlayColor"/></PlayedOverlayColor>
     <PlayPosColor><Variable name="PlayPosColor"/></PlayPosColor>
     <EndOfTrackColor><Variable name="EndOfTrackColor"/></EndOfTrackColor>
